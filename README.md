@@ -22,7 +22,7 @@ Please note that `train_multi_gpus.py` may require some additional configuration
 ## Installation
 
 ```bash
-git clone https://github.com/MuhammadMuazzain/urban_seg.git
+git clone https://github.com/MuhammadMuazzain/Urban-Remote-Sensing-Segmentation.git
 ```
 
 ## Usage
