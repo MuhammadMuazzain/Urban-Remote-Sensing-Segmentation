@@ -21,7 +21,8 @@ def predict(image: np.ndarray, input_placeholder: tf.placeholder,
     assert image.shape == (256, 256, 3), print(image.shape)
     # 给image升维 [256, 256, 3] -> [1, 256, 256, 3]
     feed_dict = {input_placeholder: np.expand_dims(image, 0),
-                 is_training_placeholder: False}
+                #  is_training_placeholder: False}
+                is_training_placeholder: False}
     image_predict_prob = sess.run(logits_prob_node, feed_dict=feed_dict)
     # 给image降维 [1, 256, 256, 5] -> [256, 256, 5]
     image_predict_prob = np.squeeze(image_predict_prob, 0)
