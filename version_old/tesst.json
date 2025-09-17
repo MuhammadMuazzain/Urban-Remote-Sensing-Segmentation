@@ -1,0 +1,548 @@
+{
+"id":"3CD0Rs5PCfVcemg3739ogw_0000"
+"full_name":"ittai barzilay"
+"first_name":"ittai"
+"middle_initial":
+NULL
+"middle_name":
+NULL
+"last_initial":"b"
+"last_name":"barzilay"
+"sex":
+NULL
+"linkedin_url":"linkedin.com/in/ittaib"
+"linkedin_username":"ittaib"
+"linkedin_id":"3271263"
+"facebook_url":"facebook.com/ittaib"
+"facebook_username":"ittaib"
+"facebook_id":"3305488"
+"twitter_url":"twitter.com/ittaisays"
+"twitter_username":"ittaisays"
+"github_url":"github.com/ittaisays"
+"github_username":"ittaisays"
+"industry":"computer software"
+"job_title":"director of product management"
+"job_title_role":"product"
+"job_title_sub_role":"product_management"
+"job_title_class":"research_and_development"
+"job_title_levels":[
+"director"
+]
+"job_company_id":"kyi0UDkvdSM0GQCIpb14Dw15Uee9"
+"job_company_name":"otter.ai"
+"job_company_website":"otter.ai"
+"job_company_size":"51-200"
+"job_company_founded":
+NULL
+"job_company_industry":"computer software"
+"job_company_linkedin_url":"linkedin.com/company/otter-ai"
+"job_company_linkedin_id":"35593855"
+"job_company_facebook_url":"facebook.com/otterai"
+"job_company_twitter_url":"twitter.com/otter_ai"
+"job_company_location_name":"mountain view, california, united states"
+"job_company_location_locality":"mountain view"
+"job_company_location_metro":"san jose, california"
+"job_company_location_region":"california"
+"job_company_location_geo":"37.39,-122.06"
+"job_company_location_street_address":"800 west el camino real"
+"job_company_location_address_line_2":"suite 170"
+"job_company_location_postal_code":"94040"
+"job_company_location_country":"united states"
+"job_company_location_continent":"north america"
+"job_last_changed":"2025-07-11"
+"job_last_verified":"2025-08-04"
+"job_start_date":"2025-06"
+"location_country":"united states"
+"location_continent":"north america"
+"location_address_line_2":
+NULL
+"location_last_updated":"2025-08-04"
+"interests":[
+"boating"
+"electronics"
+"exercise"
+"home decoration"
+"home improvement"
+"investing"
+"kids"
+"movies"
+"music"
+"outdoors"
+"passionate about brazilian jiu jitsu"
+"philanthropy"
+"photography"
+"reading"
+"scuba diving"
+"sports"
+"sweepstakes"
+"travel"
+"traveling"
+]
+"skills":[
+"advertising"
+"agile methodologies"
+"analytics"
+"apis"
+"cloud computing"
+"customer analysis"
+"customer analytics"
+"django"
+"e commerce"
+"enterprise software"
+"entrepreneurship"
+"excel models"
+"go to market strategy"
+"lead generation"
+"market research"
+"mobile applications"
+"mobile devices"
+"monetization"
+"mysql"
+"online advertising"
+"online marketing"
+"postgresql"
+"product management"
+"python"
+"r"
+"recruiting"
+"saas"
+"scrum"
+"search"
+"sem"
+]
+"countries":[
+"united states"
+]
+"experience":[
+{
+"company":{
+"name":"otter.ai"
+"size":"51-200"
+"id":"kyi0UDkvdSM0GQCIpb14Dw15Uee9"
+"founded":
+NULL
+"industry":"computer software"
+"location":{
+"name":"mountain view, california, united states"
+"locality":"mountain view"
+"region":"california"
+"metro":"san jose, california"
+"country":"united states"
+"continent":"north america"
+"street_address":"800 west el camino real"
+"address_line_2":"suite 170"
+"postal_code":"94040"
+"geo":"37.39,-122.06"
+}
+"linkedin_url":"linkedin.com/company/otter-ai"
+"linkedin_id":"35593855"
+"facebook_url":"facebook.com/otterai"
+"twitter_url":"twitter.com/otter_ai"
+"website":"otter.ai"
+}
+"location_names":[
+"san francisco, california, united states"
+]
+"end_date":
+NULL
+"start_date":"2025-06"
+"title":{
+"name":"director of product management"
+"class":"research_and_development"
+"role":"product"
+"sub_role":"product_management"
+"levels":[
+"director"
+]
+}
+"is_primary":true
+}
+{
+"company":{
+"name":"slack"
+"size":"1001-5000"
+"id":"Yxps3xWRb5QVlpLX2TFbJAyvHbIT"
+"founded":2009
+"industry":"computer software"
+"location":{
+"name":"san francisco, california, united states"
+"locality":"san francisco"
+"region":"california"
+"metro":"san francisco, california"
+"country":"united states"
+"continent":"north america"
+"street_address":"500 howard street"
+"address_line_2":
+NULL
+"postal_code":
+NULL
+"geo":"37.74,-122.45"
+}
+"linkedin_url":"linkedin.com/company/tiny-spec-inc"
+"linkedin_id":"1612748"
+"facebook_url":"facebook.com/slackhq"
+"twitter_url":"twitter.com/slackhq"
+"website":"slack.com"
+}
+"location_names":[
+"san francisco, california, united states"
+]
+"end_date":"2025-07"
+"start_date":"2019-03"
+"title":{
+"name":"director of product management, core product"
+"class":"research_and_development"
+"role":"product"
+"sub_role":"product_management"
+"levels":[
+"director"
+]
+}
+"is_primary":false
+}
+{
+"company":{
+"name":"meta"
+"size":"10001+"
+"id":"RjhjJnYUCiAfXFyxCHLDQQ5opPrK"
+"founded":2004
+"industry":"internet"
+"location":{
+"name":"menlo park, california, united states"
+"locality":"menlo park"
+"region":"california"
+"metro":"san francisco, california"
+"country":"united states"
+"continent":"north america"
+"street_address":"1 hacker way"
+"address_line_2":
+NULL
+"postal_code":"94025"
+"geo":"37.40,-122.25"
+}
+"linkedin_url":"linkedin.com/company/meta"
+"linkedin_id":"10667"
+"facebook_url":"facebook.com/meta"
+"twitter_url":"twitter.com/facebook"
+"website":"meta.com"
+}
+"location_names":[
+"menlo park, california, united states"
+]
+"end_date":"2019-02"
+"start_date":"2016-03"
+"title":{
+"name":"product manager"
+"class":"research_and_development"
+"role":"product"
+"sub_role":"product_management"
+"levels":[]
+}
+"is_primary":false
+}
+{
+"company":{
+"name":"infoscout (now numerator)"
+"size":"51-200"
+"id":"Tb1E4BtT6g2ICUcLDNIlPAHd2vH7"
+"founded":2011
+"industry":"market research"
+"location":{
+"name":"san francisco, california, united states"
+"locality":"san francisco"
+"region":"california"
+"metro":"san francisco, california"
+"country":"united states"
+"continent":"north america"
+"street_address":"322 ritch street"
+"address_line_2":
+NULL
+"postal_code":"94107"
+"geo":"37.74,-122.45"
+}
+"linkedin_url":"linkedin.com/company/infoscout"
+"linkedin_id":"2943326"
+"facebook_url":"facebook.com/infoscout"
+"twitter_url":"twitter.com/infoscout"
+"website":"infoscout.co"
+}
+"location_names":[
+"san francisco, california, united states"
+"mexico city, mexico city, mexico"
+]
+"end_date":"2016-02"
+"start_date":"2014-05"
+"title":{
+"name":"manager, consumer apps"
+"class":"services"
+"role":"professional_service"
+"sub_role":"consulting"
+"levels":[
+"manager"
+]
+}
+"is_primary":false
+}
+{
+"company":{
+"name":"bloomreach"
+"size":"501-1000"
+"id":"BzBFc99uZgzq33SC8VyJMAgjvrKI"
+"founded":2009
+"industry":"computer software"
+"location":{
+"name":"mountain view, california, united states"
+"locality":"mountain view"
+"region":"california"
+"metro":"san jose, california"
+"country":"united states"
+"continent":"north america"
+"street_address":"700 east el camino real"
+"address_line_2":"suite 130"
+"postal_code":"94040"
+"geo":"37.39,-122.06"
+}
+"linkedin_url":"linkedin.com/company/bloomreach"
+"linkedin_id":"36076"
+"facebook_url":"facebook.com/bloomreach"
+"twitter_url":
+NULL
+"website":"bloomreach.com"
+}
+"location_names":[
+"mountain view, ontario, canada"
+"mountain view, alberta, canada"
+"mountain view, california, united states"
+]
+"end_date":"2014-05"
+"start_date":"2010-09"
+"title":{
+"name":"product & engagement manager"
+"class":"research_and_development"
+"role":"product"
+"sub_role":"product_management"
+"levels":[
+"manager"
+]
+}
+"is_primary":false
+}
+{
+"company":{
+"name":"riviera partners"
+"size":"51-200"
+"id":"9e1JaHVnG9JM1gqH47gdiQteZNdC"
+"founded":2001
+"industry":"staffing and recruiting"
+"location":{
+"name":"san francisco, california, united states"
+"locality":"san francisco"
+"region":"california"
+"metro":"san francisco, california"
+"country":"united states"
+"continent":"north america"
+"street_address":"141 10th street"
+"address_line_2":"suite 2400"
+"postal_code":"94103"
+"geo":"37.74,-122.45"
+}
+"linkedin_url":"linkedin.com/company/riviera-partners"
+"linkedin_id":"25070"
+"facebook_url":"facebook.com/rivierapartners"
+"twitter_url":"twitter.com/riviteam"
+"website":"rivierapartners.com"
+}
+"location_names":[
+"san francisco, california, united states"
+]
+"end_date":"2010-09"
+"start_date":"2008-07"
+"title":{
+"name":"executive recruiter"
+"class":"general_and_administrative"
+"role":"human_resources"
+"sub_role":"recruiting"
+"levels":[]
+}
+"is_primary":false
+}
+]
+"education":[
+{
+"school":{
+"name":"uc san diego"
+"type":"post-secondary institution"
+"id":"Kd29tAJJGmqpeWSoE5oTVg_0"
+"location":{
+"name":"la jolla, california, united states"
+"locality":"la jolla"
+"region":"california"
+"country":"united states"
+"continent":"north america"
+}
+"linkedin_url":"linkedin.com/school/ucsandiego"
+"facebook_url":"facebook.com/ucsandiego"
+"twitter_url":"twitter.com/ucsandiego"
+"linkedin_id":"3382"
+"website":"ucsd.edu"
+"domain":"ucsd.edu"
+}
+"degrees":[
+"bachelors"
+"bachelor of science"
+]
+"start_date":"2004-01"
+"end_date":"2008"
+"majors":[
+"economics"
+"management science"
+"finance"
+]
+"minors":[]
+"gpa":
+NULL
+}
+{
+"school":{
+"name":"społeczna akademia nauk"
+"type":"post-secondary institution"
+"id":"OOlq6T8mqen9DofOpJkuLw_0"
+"location":{
+"name":"łódź, łódź, poland"
+"locality":"łódź"
+"region":"łódź"
+"country":"poland"
+"continent":"europe"
+}
+"linkedin_url":"linkedin.com/school/spoleczna-akademia-nauk"
+"facebook_url":
+NULL
+"twitter_url":
+NULL
+"linkedin_id":"15095749"
+"website":"san.edu.pl"
+"domain":"san.edu.pl"
+}
+"degrees":[]
+"start_date":
+NULL
+"end_date":"2008"
+"majors":[]
+"minors":[]
+"gpa":
+NULL
+}
+{
+"school":{
+"name":"homestead high school"
+"type":"secondary school"
+"id":
+NULL
+"location":
+NULL
+"linkedin_url":
+NULL
+"facebook_url":
+NULL
+"twitter_url":
+NULL
+"linkedin_id":
+NULL
+"website":
+NULL
+"domain":
+NULL
+}
+"degrees":[]
+"start_date":
+NULL
+"end_date":"2004"
+"majors":[]
+"minors":[]
+"gpa":
+NULL
+}
+]
+"profiles":[
+{
+"network":"linkedin"
+"id":"3271263"
+"url":"linkedin.com/in/ittaib"
+"username":"ittaib"
+}
+{
+"network":"facebook"
+"id":"3305488"
+"url":"facebook.com/ittaib"
+"username":"ittaib"
+}
+{
+"network":"twitter"
+"id":
+NULL
+"url":"twitter.com/ittaisays"
+"username":"ittaisays"
+}
+{
+"network":"github"
+"id":
+NULL
+"url":"github.com/ittaisays"
+"username":"ittaisays"
+}
+{
+"network":"quora"
+"id":
+NULL
+"url":"quora.com/ittai-barzilay"
+"username":"ittai-barzilay"
+}
+{
+"network":"angellist"
+"id":
+NULL
+"url":"angel.co/ittai-barzilay"
+"username":"ittai-barzilay"
+}
+{
+"network":"klout"
+"id":
+NULL
+"url":"klout.com/ittaisays"
+"username":"ittaisays"
+}
+{
+"network":"pinterest"
+"id":
+NULL
+"url":"pinterest.com/ittai"
+"username":"ittai"
+}
+{
+"network":"linkedin"
+"id":
+NULL
+"url":"linkedin.com/in/ittai-barzilay-1131191"
+"username":"ittai-barzilay-1131191"
+}
+]
+"dataset_version":"31.1"
+"birth_date":false
+"birth_year":true
+"emails":true
+"location_geo":true
+"location_locality":true
+"location_metro":true
+"location_name":true
+"location_names":true
+"location_postal_code":false
+"location_region":true
+"location_street_address":false
+"mobile_phone":true
+"personal_emails":true
+"phone_numbers":true
+"recommended_personal_email":true
+"regions":true
+"street_addresses":true
+"work_email":false
+}

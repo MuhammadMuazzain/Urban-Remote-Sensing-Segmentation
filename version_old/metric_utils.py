@@ -12,6 +12,7 @@ def iou(y_pre: np.ndarray, y_true: np.ndarray) -> 'dict':
         y_true=y_true,
         y_pred=y_pre,
         labels=[0, 1, 2, 3, 4])
+    
 
     result_iou = [
         cm[i][i] / (sum(cm[i, :]) + sum(cm[:, i]) - cm[i, i]) for i in range(len(cm))
@@ -27,5 +28,5 @@ def iou(y_pre: np.ndarray, y_true: np.ndarray) -> 'dict':
     metric_dict['iou'] = np.mean(result_iou)
     metric_dict['accuracy'] = sum(np.diag(cm)) / sum(np.reshape(cm, -1))
 
+    # return metric_dict
     return metric_dict
-
