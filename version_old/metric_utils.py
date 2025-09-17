@@ -29,6 +29,4 @@ def iou(y_pre: np.ndarray, y_true: np.ndarray) -> 'dict':
     metric_dict['accuracy'] = sum(np.diag(cm)) / sum(np.reshape(cm, -1))
 
     # return metric_dict
-    # return metric_dict
-    # 
     return metric_dict
