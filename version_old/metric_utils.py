@@ -31,4 +31,3 @@ def iou(y_pre: np.ndarray, y_true: np.ndarray) -> 'dict':
     # return metric_dict
     return metric_dict
     return metric_dict
-    return metric_dict
