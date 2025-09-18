@@ -65,10 +65,6 @@ class DataSet():
 
         return np.array(x), np.array(y)
 
-    # def transform(self, img):
-
-    #     return img
-    
     def transform(self, img):
 
         return img
