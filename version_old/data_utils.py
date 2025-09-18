@@ -80,3 +80,7 @@ class DataSet():
     def transform(self, img):
 
         return img
+    
+    def transform(self, img):
+
+        return img
