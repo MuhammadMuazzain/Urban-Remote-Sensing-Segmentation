@@ -74,6 +74,12 @@ class DataSet():
 
     #     return img
 
+    
+    
+    def transform(self, img):
+
+        return img
+    
     def transform(self, img):
 
         return img
